@@ -15,7 +15,7 @@ var num4= Math.floor(Math.random()*19+1)
 // numbers for crystals should be between 1-20
 var userTotal= 0;
 var wins= 0;
-var losses= 0
+var losses= 0;
 // append win/loss variables variables to html
 $("#numberwins").text(wins);
 $("#numberlosses").text(losses);
